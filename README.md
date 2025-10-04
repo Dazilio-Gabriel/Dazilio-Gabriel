@@ -1,44 +1,23 @@
-# Dazilio-Gabriel 🚀
+## Olá meu nome é Gabriel Dazilio,sou um estudante e desenvolvedor de software! 💻
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![GitHub language](https://img.shields.io/github/languages/top/Dazilio-Gabriel/Dazilio-Gabriel)
-![License](https://img.shields.io/badge/license-MIT-blue)
+Pessoal que veio atrás do **GitHub Stats:** você pode adicionar suas estatísticas depois usando a [API do GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
----
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Gabriel-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+</div>
 
-## Sobre o Projeto
+##
 
-Este projeto é um exemplo moderno de repositório em GitHub, com README completo, gráficos e informações de tecnologia.
-
----
-
-## Tecnologias Utilizadas
-
-- ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- Markdown
-
----
-
-## Gráfico de Progresso do Projeto
-
-![Gráfico Exemplo](https://www.chartgo.com/share.do?id=9e6f4b0c3f5d4e20b3c4b9e9c5e4b8f3)
-
-> Obs: Substitua o link acima por um gráfico real do seu projeto. Pode gerar gráficos gratuitos no [chartgo.com](https://www.chartgo.com) ou [QuickChart](https://quickchart.io/).
-
----
-
-## Como Rodar
-
-```bash
-# Clonar o repositório
-git clone git@github.com:Dazilio-Gabriel/Dazilio-Gabriel.git
-
-# Entrar na pasta
-cd Dazilio-Gabriel
-
-# Compilar/rodar (exemplo Java)
-javac Main.java
-java Main
-```
+<div> 
+  <a href="https://www.linkedin.com/in/gabrieldazilio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrieldazilio@email.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Dazilio-Gabriel" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabrieldazilio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/gabrieldazilio" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
