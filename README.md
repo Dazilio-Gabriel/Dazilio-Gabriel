@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gabriel Dazilio! 💻
 
-### Sou um estudante e desenvolvedor de software.
+### Sou um estudante e desenvolvedor de software, com foco no desenvolvimento nas linguagens JAVA e SQL.
 
 <br>
 
