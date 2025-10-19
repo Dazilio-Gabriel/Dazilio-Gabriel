@@ -47,4 +47,4 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Dazilio-Gabriel/Dazilio-Gabriel/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dazilio-Gabriel/Dazilio-Gabriel/output/github-snake.svg" alt="Snake animation" />
