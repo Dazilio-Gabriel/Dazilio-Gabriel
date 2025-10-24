@@ -9,11 +9,11 @@
     <tr>
       <td>
         <a href="https://github.com/Dazilio-Gabriel">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A"/>
         </a>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=monokai"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6"/>
       </td>
     </tr>
   </table>
