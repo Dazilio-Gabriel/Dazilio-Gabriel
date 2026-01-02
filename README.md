@@ -11,13 +11,13 @@ atuando também no desenvolvimento **web** e com forte interesse em boas prátic
       <td>
         <img
           height="180"
-          src="https://github-readme-stats-lemon-eight-25.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A&cache_seconds=1800"
+          src="https://github-readme-stats-dazilio-gabriels-projects.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A&cache_seconds=1800"
         />
       </td>
       <td>
         <img
           height="180"
-          src="https://github-readme-stats-lemon-eight-25.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6&cache_seconds=1800"
+          src="https://github-readme-stats-dazilio-gabriels-projects.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6&cache_seconds=1800"
         />
       </td>
     </tr>
