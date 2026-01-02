@@ -10,13 +10,13 @@ atuando também no desenvolvimento **web** e com forte interesse em boas prátic
     <tr>
       <td>
         <img
-          height="180em"
+          height="180"
           src="https://github-readme-stats-lemon-eight-25.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A&cache_seconds=1800"
         />
       </td>
       <td>
         <img
-          height="180em"
+          height="180"
           src="https://github-readme-stats-lemon-eight-25.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6&cache_seconds=1800"
         />
       </td>
@@ -48,7 +48,7 @@ atuando também no desenvolvimento **web** e com forte interesse em boas prátic
 
 ### 🚀 Tecnologias que utilizo
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ" />
@@ -72,14 +72,11 @@ atuando também no desenvolvimento **web** e com forte interesse em boas prátic
 
 ### 🔗 Conecte-se comigo
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-dazilio-fanchiotti-4253a2265/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@outlook.com" target="_blank">
+  <a href="mailto:gabriel.fanchiotti@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="Outlook" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
