@@ -35,20 +35,6 @@ atuando principalmente com **Java** e **SQL**, e estudando constantemente **boas
 
 ---
 
-### 🔥 Consistência no GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dazilio-Gabriel&theme=transparent&hide_border=true" />
-</div>
-
----
-
-### 📊 GitHub Metrics
-
-<img src="https://metrics.lecoq.io/Dazilio-Gabriel?template=classic&activity=1&languages=1&languages.limit=6&theme=dark" />
-
----
-
 ### 📌 Interesses atuais
 
 - Backend com **Java**
