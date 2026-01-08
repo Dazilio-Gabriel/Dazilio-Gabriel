@@ -11,32 +11,30 @@ atuando também no desenvolvimento **web** e com forte interesse em boas prátic
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats-lemon-eight-25.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A&v=auto_fix"
+            srcset="https://github-readme-stats.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-lemon-eight-25.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=default&v=auto_fix"
+            srcset="https://github-readme-stats.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=default"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-lemon-eight-25.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A&v=auto_fix" height="180" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Dazilio-Gabriel&show_icons=true&include_all_commits=true&theme=transparent&bg_color=151515&border_color=444444&icon_color=F0C674&title_color=FFFFFF&text_color=C5C8C6&ring_color=E6007A" height="180" />
         </picture>
       </td>
-
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats-lemon-eight-25.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6&v=auto_fix"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-lemon-eight-25.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=default&v=auto_fix"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=default"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-lemon-eight-25.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6&v=auto_fix" height="180" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dazilio-Gabriel&layout=compact&langs_count=7&theme=transparent&bg_color=151515&border_color=444444&title_color=FFFFFF&text_color=C5C8C6" height="180" />
         </picture>
       </td>
     </tr>
-
   </table>
 </div>
 
