@@ -43,6 +43,12 @@ atuando principalmente com **Java** e **SQL**, e estudando constantemente **boas
 
 ---
 
+### 📊 GitHub Metrics
+
+<img src="https://metrics.lecoq.io/Dazilio-Gabriel?template=classic&activity=1&languages=1&languages.limit=6&theme=dark" />
+
+---
+
 ### 📌 Interesses atuais
 
 - Backend com **Java**
