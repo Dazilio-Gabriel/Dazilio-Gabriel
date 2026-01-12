@@ -57,5 +57,3 @@ atuando principalmente com **Java** e **SQL**, e estudando constantemente **boas
 </div>
 
 ---
-
-⭐ _Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor backend._
