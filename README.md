@@ -1,7 +1,8 @@
 ## 👋 Olá, eu sou o Gabriel Dazilio
 
 🎓 Estudante de Ciência da Computação e desenvolvedor de software com foco em **Backend**,  
-atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**, **testes automatizados** e **arquitetura de software**.
+atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**, *
+*testes automatizados** e **arquitetura de software**.
 
 ---
 
@@ -16,23 +17,20 @@ atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando consta
 
 ---
 
-### 🛠️ Tecnologias
+## ☕ Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
+</p>
+
 
 ---
 
@@ -46,13 +44,19 @@ atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando consta
 
 ---
 
-### 🔗 Conecte-se comigo
+## 📫 Let's Connect!
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-dazilio-fanchiotti-4253a2265/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" />
-  </a>
-  <a href="mailto:gabriel.fanchiotti@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40" />
-  </a>
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://www.linkedin.com/in/gabriel-dazilio-fanchiotti-4253a2265/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="mailto:gabriel.fanchiotti@hotmail.com">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+      </a>
+    </td>
+  </tr>
+</table>
