@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Gabriel Dazilio
 
 🎓 Estudante de Ciência da Computação e desenvolvedor de software com foco em **Backend**,  
-atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**, *
-*testes automatizados** e **arquitetura de software**.
+atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**, \*
+\*testes automatizados** e **arquitetura de software\*\*.
 
 ---
 
@@ -20,17 +20,17 @@ atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando consta
 ## ☕ Skills & Technologies
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=maven&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/></a>
 </p>
-
 
 ---
 
@@ -51,6 +51,11 @@ atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando consta
     <td align="center" style="border: none;">
       <a href="https://www.linkedin.com/in/gabriel-dazilio-fanchiotti-4253a2265/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="mailto:gabriel.fanchiotti@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
     </td>
     <td align="center" style="border: none;">
