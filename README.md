@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Gabriel Dazilio
 
 🎓 Estudante de Ciência da Computação e desenvolvedor de software com foco em **Backend**,  
-atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**, \*
-testes automatizados** e **arquitetura de software.
+atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**,
+testes automatizados e arquitetura de software.
 
 ---
 
