@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação e desenvolvedor de software com foco em **Backend**,  
 atuando principalmente com **Java**, **Spring Boot** e **SQL**, estudando constantemente **boas práticas**, **POO**, \*
-\*testes automatizados** e **arquitetura de software\*\*.
+testes automatizados** e **arquitetura de software.
 
 ---
 
