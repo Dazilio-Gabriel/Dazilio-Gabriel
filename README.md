@@ -22,6 +22,7 @@ testes automatizados e arquitetura de software.
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="70"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=hibernate&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=maven&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="70"/></a>
@@ -30,6 +31,7 @@ testes automatizados e arquitetura de software.
   <a href="#"><img src="https://skillicons.dev/icons?i=css&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=light" height="70"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="70"/></a>
+
 </p>
 
 ---
